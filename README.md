@@ -1,5 +1,7 @@
 # frame-front
 
+Frame editor where you can draw a frame zone in order to tag it with a label. Hover on the existing frame zones to show their label tag 
+
 ## Project setup
 ```
 npm install
@@ -9,16 +11,4 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This project will be accessible through ```http:\\localhost:8080```
